@@ -1,0 +1,16 @@
+/* 
+  global css for the whole app 
+  ideal place for you to override bootstrap styles
+  ideal place for your own theme
+*/
+
+.red-text {
+  color: red;
+}
+
+.hoc-style {
+  background-color: rgb(164, 225, 251);
+  border: solid 5px red;
+  padding: 20px;
+  margin-bottom: 10px;
+}
